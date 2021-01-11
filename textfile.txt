@@ -1,4 +1,0 @@
-hoge.
-huga.
-piyo.
-foo.
